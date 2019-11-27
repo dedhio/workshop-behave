@@ -1,2 +1,2 @@
-# 1º Workshop de desenvolvimento - IFSULDEMINAS
-Projeto de e-commerce com Python, Django e Behave
+# djangoecommerce
+Projeto de didático utilizado para meu curso de Django
